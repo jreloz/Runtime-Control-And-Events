@@ -1,0 +1,9 @@
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\bin\Debug\RuntimeControlsAndEvents.exe.config
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\bin\Debug\RuntimeControlsAndEvents.exe
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\bin\Debug\RuntimeControlsAndEvents.pdb
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\obj\Debug\RuntimeControlsAndEvents.Form1.resources
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\obj\Debug\RuntimeControlsAndEvents.Properties.Resources.resources
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\obj\Debug\RuntimeControlsAndEvents.csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\obj\Debug\RuntimeControlsAndEvents.exe
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\obj\Debug\RuntimeControlsAndEvents.pdb
+c:\users\office\documents\visual studio 2015\Projects\RuntimeControlsAndEvents\RuntimeControlsAndEvents\obj\Debug\RuntimeControlsAndEvents.csprojResolveAssemblyReference.cache
